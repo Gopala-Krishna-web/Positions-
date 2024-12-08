@@ -1,0 +1,35 @@
+.A,.B{
+    height: 250px;
+
+}
+.A1,.A2,.A3,.A4{
+    height: 400px;
+    width: 340px;
+    /* border: 2PX solid black; */
+    display: inline-block;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+.B1,.B2,.B3,.B4{
+    height: 400px;
+    width: 340px;
+    /* border: 2p solid black; */
+    display: inline-block;
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+img{
+    width: 100%;
+    margin: 0px;
+}
+p{
+    position: absolute;
+    top: 0%;
+    color: aqua;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+
+}
